@@ -21,6 +21,4 @@
 
 - 👩🏻‍🎓 Sou estudante de ADS
 - 💻 Estudando HTML e CSS
-- 📫 Contate-me no email: julianabriono@outlook.com
-- 🙃 Pronomes: ela/dela
 
