@@ -19,6 +19,6 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-- 👩🏻‍🎓 Sou estudante de ADS
+- 👩🏻‍🎓 Sou estudante do 4º semestre de ADS
 - 💻 Estudando HTML e CSS
 
