@@ -20,5 +20,5 @@
 </div>
 
 - 👩🏻‍🎓 Sou estudante do 4º semestre de ADS
-- 💻 Estudando HTML e CSS
+- 💻 Estudando HTML, CSS e JavaScript
 
